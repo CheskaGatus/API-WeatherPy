@@ -9,3 +9,5 @@ Built a series of scatter plots to showcase the following relationships:
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
+
+Please open WeatherPy.ipynb to view data analysis and code.
